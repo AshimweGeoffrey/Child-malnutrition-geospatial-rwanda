@@ -60,10 +60,3 @@ Joint contributions: data analysis, modelling, frontend development, deployment.
 
 License & contact
 - Open-source. For inquiries or collaboration, open an issue in this repository.
-
-If you want, I can:
-- Add a concise CONTRIBUTING.md
-- Add reproducible training commands and CI for model retraining
-- Generate example API request payloads and a Postman collection
-
-Tell me which of the above you want next and I’ll create the files.
