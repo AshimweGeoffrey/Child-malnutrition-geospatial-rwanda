@@ -3,8 +3,8 @@
 Research-oriented system for mapping and predicting district-level child malnutrition risk in Rwanda. This project combines geospatial analysis, statistical profiling, and machine-learning modelling using official NISR datasets to produce actionable, district-level risk scores and interactive visualizations.
 
 Live demo
-- Analytics dashboard: https://nisr-hackthon-ak.vercel.app/
-- Prediction API: https://nisr-hackthon-ak-p9n3.vercel.app/
+- Analytics Presentation: https://nisr-hackthon-ak.vercel.app/
+- Prediction Model: https://nisr-hackthon-ak-p9n3.vercel.app/
 
 What this repo does
 - Map spatial hotspots of child malnutrition across Rwanda’s 30 districts.
